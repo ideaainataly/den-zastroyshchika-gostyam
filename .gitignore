@@ -51,3 +51,7 @@ next-env.d.ts
 /public/partner-expo-1.jpg
 /public/partner-expo-2.jpg
 /public/partner-expo-3.jpg
+
+# Kept locally as a deployment reference; the connected GitHub token
+# cannot publish workflow files, so Pages is deployed from a branch.
+/.github/workflows/deploy-pages.yml
