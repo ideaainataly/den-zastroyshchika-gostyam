@@ -42,3 +42,12 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# Local source assets not used by the published guest site
+/public/anketa-uchastnika.docx
+/public/day-projector-logo-uploaded.png
+/public/event-atmosphere.jpg
+/public/event-networking.jpg
+/public/partner-expo-1.jpg
+/public/partner-expo-2.jpg
+/public/partner-expo-3.jpg
