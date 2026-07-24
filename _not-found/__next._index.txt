@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
 2:I[1422,[],""]
 3:I[7572,[],""]
-:HL["/den-zastroyshchika-gostyam/_next/static/css/a481c9c2d2eb2d75.css","style"]
-0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/den-zastroyshchika-gostyam/_next/static/css/a481c9c2d2eb2d75.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x8SCJzPXPDwKxJAoa0yJF"}
+:HL["/_next/static/css/a481c9c2d2eb2d75.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/a481c9c2d2eb2d75.css","precedence":"next"}]],["$","html",null,{"lang":"ru","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"x8SCJzPXPDwKxJAoa0yJF"}
