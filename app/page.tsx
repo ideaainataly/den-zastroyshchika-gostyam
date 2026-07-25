@@ -236,7 +236,7 @@ export default function Home() {
 
       <section className="registration" id="registration" data-reveal>
         <div className="registration-kicker">Важная информация для гостей</div>
-        <h2>Подтвердите участие<br />до 28 июля включительно</h2>
+        <h2>Подтвердите участие<br />до 30 июля включительно</h2>
         <div className="registration-grid">
           <div>
             <p>

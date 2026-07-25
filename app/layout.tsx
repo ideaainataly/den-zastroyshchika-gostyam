@@ -13,7 +13,7 @@ export const metadata: Metadata = {
   icons: { icon: `${basePath}/favicon.svg` },
   openGraph: {
     title: "День Застройщика — 7 августа 2026",
-    description: "Охта Парк. Подтвердите участие до 28 июля включительно.",
+    description: "Охта Парк. Подтвердите участие до 30 июля включительно.",
     images: [`${basePath}/banquet-artists.jpg`],
   },
 };
