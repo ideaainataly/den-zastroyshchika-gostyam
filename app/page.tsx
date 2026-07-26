@@ -85,9 +85,9 @@ export default function Home() {
           </div>
           <a href="#registration" className="action hero-in delay-3">Подтвердить участие <b>→</b></a>
           <div className="hero-logos hero-in delay-3">
-            <img src={asset("/eurostroy-logo.jpg")} alt="Еврострой" />
+            <img src={asset("/eurostroy-logo-transparent.png")} alt="Еврострой" />
             <a href="https://agencymoe.ru/" target="_blank" rel="noreferrer">
-              <img src={asset("/moe-logo.svg")} alt="МОЁ — генеральный партнёр" />
+              <img src={asset("/moe-logo-transparent.png")} alt="МОЁ — генеральный партнёр" />
             </a>
           </div>
         </div>
